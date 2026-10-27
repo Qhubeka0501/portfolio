@@ -263,6 +263,30 @@ Working with Sprint Backlogs helped me understand how Product Backlog items are 
 
 I learned that sprint planning makes it easier to monitor progress, identify unfinished work and maintain focus on the sprint goal. Using Trello also helped me see how tasks moved through different stages and how team members collaborated to complete sprint activities. This experience improved my understanding of Agile planning, teamwork and continuous progress throughout the LaunchPad.dev project.
 
+## Agile Logbook
+
+### Evidence
+
+The Agile Logbook was used to record daily stand-up information, project progress, planned work and any blockers or risks experienced during development. It also included the taskboard and walkthrough information used to monitor the flow of work during the project.
+
+#### Agile Logbook Preview
+
+The logbook shows dated entries for daily Agile stand-ups, including what was completed, what was planned next and any impediments encountered.
+
+![Agile Logbook Preview](evidence/Agile-Logbook-Preview.png)
+
+### Full Agile Logbook
+
+The complete Agile Logbook can be viewed using the link below:
+
+📄 [View Full Agile Logbook](evidence/Agile-Logbook.pdf)
+
+### Reflection
+
+Maintaining the Agile Logbook helped me understand the importance of regularly recording project progress and reflecting on completed work. By documenting what I completed, what I planned to do next and any blockers I experienced, I was able to track my own contribution to the project more clearly.
+
+I also learned that the Agile Logbook supports accountability because it provides a record of progress over time and helps identify problems early. Recording daily stand-up information improved my understanding of how Agile teams communicate progress, plan upcoming work and respond to challenges throughout a sprint.
+
 ##  References
 
 **Mr L. Mchunu**  
