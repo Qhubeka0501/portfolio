@@ -167,6 +167,38 @@ Developing and working with the Agile Team Charter helped me understand the impo
 I also learned how Agile practices such as daily stand-ups, sprint planning, reviews and retrospectives help teams communicate, identify problems early and continuously improve. The charter helped create accountability within the team and gave us a shared understanding of how we would work together throughout the project.
 
 
+## User Stories and Tasks
+
+### Evidence
+
+The following Trello board evidence shows the user stories created for the LaunchPad.dev project. The user stories were used to describe system requirements from the user's or development team's perspective and were broken down into specific tasks.
+
+#### User Stories Overview
+
+The User Stories column in Trello was used to organise the different requirements and features planned for the project.
+
+![User Stories Overview](evidence/User-Stories-Overview.png.png)
+
+#### US-01: Project Planning
+
+This user story focused on creating a clear development plan for the team. It included acceptance criteria and tasks such as updating the Product Backlog, API planning, creating user flow diagrams and preparing the test plan.
+
+![US-01 Project Planning](evidence/User-Story-US01-Project-Planning.png.png)
+
+#### US-02: Technical Foundation
+
+This user story focused on establishing the technical foundation of the system. The tasks included configuring the database, creating the Spring Boot project and organising the backend folder structure.
+
+![US-02 Technical Foundation](evidence/User-Story-US02-Technical-Foundation.png.png)
+
+### Reflection
+
+Working with user stories helped me understand how project requirements can be translated into smaller and more manageable development tasks. Instead of approaching the system as one large project, each user story provided a clear objective, acceptance criteria and a set of tasks that needed to be completed.
+
+I also learned that user stories improve communication within an Agile team because team members can clearly understand what needs to be developed and why it is required. Breaking the stories into individual tasks made it easier to plan the work, monitor progress on Trello and connect each task to the overall goals of the LaunchPad.dev project.
+
+
+
 
 ##  References
 
