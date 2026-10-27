@@ -158,6 +158,8 @@ The Agile Team Charter was developed for the LaunchPad.dev project to establish 
 
 Our team used the Kanban methodology supported by Trello to organise tasks, monitor progress and manage the project workflow.
 
+![Agile Team Charter Preview](evidence/Agile-Team-Charter-Preview.png)
+
 📄 [View Full Agile Team Charter](evidence/Agile%20Team%20Charter%20%281%29PDF.pdf)
 
 ### Reflection
@@ -190,6 +192,13 @@ This user story focused on creating a clear development plan for the team. It in
 This user story focused on establishing the technical foundation of the system. The tasks included configuring the database, creating the Spring Boot project and organising the backend folder structure.
 
 ![US-02 Technical Foundation](evidence/User-Story-US02-Technical-Foundation.png.png)
+
+### Full Trello Board
+
+The complete Trello board can be viewed using the link below:
+
+🔗 [View LaunchPad.dev Trello Product Backlog](https://trello.com/b/bcHU6C6I/wil-product-backlog)
+
 
 ### Reflection
 
