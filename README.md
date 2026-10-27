@@ -197,7 +197,41 @@ Working with user stories helped me understand how project requirements can be t
 
 I also learned that user stories improve communication within an Agile team because team members can clearly understand what needs to be developed and why it is required. Breaking the stories into individual tasks made it easier to plan the work, monitor progress on Trello and connect each task to the overall goals of the LaunchPad.dev project.
 
+## Product Backlog
 
+### Evidence
+
+The Product Backlog was managed using Trello and contained the features, technical tasks, testing activities and improvements required for the LaunchPad.dev project. The backlog helped the team organise work, assign priorities and track progress as features moved through development.
+
+#### Product Backlog Overview
+
+The Product Backlog column shows several planned and completed development tasks, including user authentication, user profile functionality and frontend integration.
+
+![Product Backlog Overview](evidence/Product-Backlog-Overview.png)
+
+#### CV Builder Module
+
+The CV Builder Module was included as a Product Backlog item to provide users with CV creation functionality. The Trello card shows the assigned member, due date and completion status.
+
+![CV Builder Module](evidence/Product-Backlog-CV-Builder.png)
+
+#### Mock Interview Module
+
+The Mock Interview Module was included in the Product Backlog to support interview booking and practice functionality for users.
+
+![Mock Interview Module](evidence/Product-Backlog-Mock-Interview.png)
+
+### Full Trello Board
+
+The complete Trello board can be viewed using the link below:
+
+🔗 [View LaunchPad.dev Trello Product Backlog](https://trello.com/b/bcHU6C6I/wil-product-backlog)
+
+### Reflection
+
+Working with the Product Backlog helped me understand how a large software project can be divided into smaller and more manageable pieces of work. Each backlog item represented a feature, technical requirement or improvement that needed to be completed for the LaunchPad.dev system.
+
+I learned that the Product Backlog is not only a list of tasks but also a planning tool that helps the team understand priorities and monitor project progress. Using Trello made it easier to see which work was still outstanding, which tasks were being developed and which features had been completed. This helped me understand the importance of maintaining an organised and updated backlog throughout an Agile project.
 
 
 ##  References
