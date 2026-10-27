@@ -100,10 +100,6 @@ A recorded mock interview demonstrating my communication and professional skills
  [Watch My Mock Interview](https://drive.google.com/file/d/1SfHqxFqcLyNTMiTNp1_CHx9HJvHTreS2/view?usp=sharing)
 
 
-<iframe src="https://drive.google.com/file/d/1SfHqxFqcLyNTMiTNp1_CHx9HJvHTreS2/preview" width="640" height="480"></iframe>
-
-
-
 
 # Reflection on Markdown.
 
@@ -150,6 +146,26 @@ I configured GitHub Pages through the repository settings and selected the main 
 
 **Result:**  
 I successfully published my portfolio online, making it accessible to others. I gained experience in web deployment and improved my understanding of GitHub tools.
+
+
+# PRP370S Assessment 2 – Agile Portfolio Evidence
+
+## Agile Team Charter
+
+### Evidence
+
+The Agile Team Charter was developed for the LaunchPad.dev project to establish the team's shared purpose, roles, responsibilities, working agreements, communication methods and Agile practices.
+
+Our team used the Kanban methodology supported by Trello to organise tasks, monitor progress and manage the project workflow.
+
+📄 [View Full Agile Team Charter](evidence/Agile%20Team%20Charter%20%281%29PDF.pdf)
+
+### Reflection
+
+Developing and working with the Agile Team Charter helped me understand the importance of establishing clear roles, responsibilities and working agreements before starting a project. As a Developer and Research Lead, I understood what was expected from me and how my responsibilities contributed to the overall LaunchPad.dev project.
+
+I also learned how Agile practices such as daily stand-ups, sprint planning, reviews and retrospectives help teams communicate, identify problems early and continuously improve. The charter helped create accountability within the team and gave us a shared understanding of how we would work together throughout the project.
+
 
 
 ##  References
